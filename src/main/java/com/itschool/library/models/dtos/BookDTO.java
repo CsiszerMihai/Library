@@ -11,5 +11,5 @@ public class BookDTO {
     private String author;
     private String isbn;
     private String genre;
-    private int copiesAvailable;
+    //private int copiesAvailable;
 }
